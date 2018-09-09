@@ -1,2 +1,2 @@
 # automl
-Ability to use deep learning to build architectures
+Ability to use deep learning to build neural network architectures
